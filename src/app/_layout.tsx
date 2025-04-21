@@ -1,6 +1,7 @@
 import { Slot, Stack } from "expo-router";
 
 export default function RootLayout() {
+    
   // Bu dosya, uygulamanın kök düzeyindeki bileşenidir.
   // Uygulamanın genel düzenini ve yönlendirmesini tanımlar.
   // Expo Router, bu dosyayı kullanarak uygulamanın kök düzeyindeki bileşenini oluşturur.
